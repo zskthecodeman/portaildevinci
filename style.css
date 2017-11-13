@@ -1,7 +1,24 @@
+<<<<<<< HEAD
 .   navbar-nav{
     flex-direction: row;
 }
 
 .dropdown{
     padding-left:75px;
+=======
+.background{
+    background-color: #E9EAED;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.white{
+    background-color: #ffffff;
+    border-radius: .1em;
+}
+
+.align{
+    flex-direction: row;
+>>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
 }
