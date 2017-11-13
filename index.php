@@ -1,8 +1,34 @@
 <?php include 'template/header.php' ?>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <div class="row">
+        <div class="col-md-12 background">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Tableau de bord Étudiant</h1>
+                        <div class="white">
+                            <h7>Mon Tableau de bord</h7>
+                        </div>
+                        <br>
+                        <nav>
+                            <ul class="navbar-nav mr-auto align">
+                                <li class="nav-item"><button>Fiche Étudiant</button></li>
+                                <li class="nav-item align-baseline"><button>Mon E.D.T</button></li>
+                                <li class="nav-item"><button>Mes Absences</button></li>
+                                <li class="nav-item"><button>Mes notes</button></li>
+                                <li class="nav-item"><button>Mes cours</button></li>
+                                <li class="nav-item"><button>Documents</button></li>
+                                <li class="nav-item"><button>Stages</button></li>
+                                <li class="nav-item"><button>International</button></li>
+                                <li class="nav-item"><button>Rendus pédagogique</button></li>
+                                <li class="nav-item"><button>Finances</button></li>
+                                <li class="nav-item"><button>Promotion école</button></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 <?php include 'template/footer.php'; ?>
-
