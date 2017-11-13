@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<?php
-include'template/header.php';
-?>
-<?php
-include 'template/footer.php';
-?>
-=======
+
+
 <?php include'template/header.php' ?>
 
     <div class="col-md-6 offset-4">Bonjour</div>
@@ -16,4 +10,3 @@ include 'template/footer.php';
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
 <?php include'template/footer.php' ?>
->>>>>>> 8f2ac78d5f51bd653a7cdfa01d7457ca237e1366
