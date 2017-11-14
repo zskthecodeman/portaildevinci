@@ -1,5 +1,15 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: #E9EAED;
+}
+
+h1, h2, h3{line-height: 2em}
+
+h1, h2, h3, h4, h5, h6{
+    margin: .625em 0;
+    font-family: inherit;
+    font-weight: normal;
+    color: inherit;
 }
 
 .navbar{background-color: #3B5998;}
@@ -19,17 +29,28 @@ body{
     overflow: hidden;
 }
 
-.white{
-    background: #ffffff;
-    border-radius: .1em;
+.logodiv{
+    float: left;
+    margin-right: 15px;
+    background: #fff;
+    border: 1px solid #bbb;
+    padding: 5px;
+    height: 40px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.bgtitle{
+    font-size: 1.531em;
 }
 
 .lgscreen{display: block;}
 
 .align{
     flex-direction: row;
-    margin-top: .4em;
     margin-left: -.28em;
+    margin-top: -1.250em;
 }
 
 .align li{
@@ -133,3 +154,67 @@ body{
     .closebtn{margin-top: -20px;}
 }
 /* /Smallmenu */
+
+/* Content */
+.content{
+    border: .063em solid #003781;
+    margin-top: 0;
+    margin-bottom: 1.563em;
+    background-color: #fff;
+    border-radius: 0.188em;
+    color: #fff;
+}
+
+.content, header{
+    background-color: #3B5998;
+    border-color: #41659C;
+    min-height: 1.875em;
+    padding: .250em .625em;
+    margin-bottom: 0;
+    width: 100%;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-top-left-radius: .188em;
+    border-top-right-radius: .188em;
+}
+
+.content .body{
+    padding: .750em;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #fff;
+}
+
+.alert-info{
+    background-color: #ECEFF6;
+    border-color: #D4DEEB;
+    color: #3A87AD;
+}
+
+.alert{
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.label{
+    border-radius: .188em;
+    display: inline-block;
+    padding: 2px 4px;
+    font-size: 11.844px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #fff;
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #999;
+}
+
+@media (min-width: 1200px){
+    .row-fluid{width: 100%;}
+}
+/* /Content */

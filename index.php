@@ -7,10 +7,14 @@
 
                     <div class="col-md-12">
 
-                        <h1>Tableau de bord Étudiant</h1>
-                        <div class="white">
-                            <h7>Mon Tableau de bord</h7>
+                        <div class="container-fluid">
+                            <div class="logodiv">
+                                <img src="img/logo.png">
+                            </div>
+                            <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                         </div>
+
+                        <br>
 
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
@@ -78,6 +82,48 @@
                             }
                         </script>
 
+                    </div>
+
+                    <div class="container-fluid" style="z-index: 100;">
+                        <div class="content">
+
+                            <header><h4>Fiche Étudiant : </h4></header>
+
+                            <div class="body">
+                                <div class="row-fluid">
+                                    <div class="alert alert-info">
+                                        <div class="pull-right">
+                                            Téléchargement de la fiche de réinscription :
+                                            <a href="#"><img src="img/fichier.png"></a>
+                                            <br>
+                                            Mandat SEPA :
+                                            <a href="#"><img src="img/fichier.png"></a>
+                                        </div>    
+                                            <h4>Réinscriptions 2017-2018</h4>
+                                            Votre inscription est validée.
+                                            <br>
+                                            <strong>&Agrave; titre indicatif :</strong>
+                                            Le montant de votre inscription pour l'année universitaire
+                                            <b>2017-2018</b>
+                                            sera de
+                                            <span class="label">7 100€</span>
+                                            <br>
+                                            Votre certificat
+                                            <b>ImaginR</b>
+                                            est disponible dans l'onglet
+                                            <b>Document</b>
+                                            ci-dessus.
+                                    </div>
+                                </div>
+                                <div class="row-fluid">
+
+                                </div>
+                                <div class="row-fluid">
+
+                                </div>
+                            </div>
+
+                        </div>
                     </div>
 
                 </div>

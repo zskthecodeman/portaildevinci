@@ -65,7 +65,7 @@
                 </ul>
 
                 <ul>
-                    <li class="nav-item  ">
+                    <li class="nav-item">
                         <a class="nav-link" href="#">Occupation des salles</a>
                     </li>
                 </ul>
