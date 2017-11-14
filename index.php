@@ -24,10 +24,10 @@
                                     <a href="#" class="btn btn-effect">Mes Absences</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes notes</a>
+                                    <a href="#" class="btn btn-effect">Mes Notes</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes cours</a>
+                                    <a href="#" class="btn btn-effect">Mes Cours</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect">Documents</a>
@@ -50,13 +50,33 @@
                             </ul>
                         </nav>
 
-                        <nav class="smscreen">
-                            <div class="smallmenu">
-                                <div class="">
-                                    <i class="fa fa-chevron-circle-down fa-3x clic " aria-hidden="true"></i>
-                                </div>
+                        <div id="myNav" class="overlay smscreen">
+                            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                            <div class="overlay-content">
+                                <a href="#">Fiche Étudiant</a>
+                                <a href="#">Mon E.D.T</a>
+                                <a href="#">Mes Absences</a>
+                                <a href="#">Mes Notes</a>
+                                <a href="#">Mes Cours</a>
+                                <a href="#">Documents</a>
+                                <a href="#">Stages</a>
+                                <a href="#">International</a>
+                                <a href="#">Rendus pédagogique</a>
+                                <a href="#">Finances</a>
+                                <a href="#">Promotion école</a>
                             </div>
-                        </nav>
+                        </div>
+                        <span class="smscreen btnsmscreen" onclick="openNav()">&#9776; MENU</span>
+
+                        <script>
+                            function openNav() {
+                                document.getElementById("myNav").style.width = "100%";
+                            }
+
+                            function closeNav() {
+                                document.getElementById("myNav").style.width = "0%";
+                            }
+                        </script>
 
                     </div>
 

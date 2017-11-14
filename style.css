@@ -1,18 +1,17 @@
-<<<<<<< HEAD
 body{
     font-family: 'Roboto', sans-serif;
 }
 
-=======
-<<<<<<< HEAD
-.   navbar-nav{
+.navbar{background-color: #3B5998;}
+
+.navbar-nav{
     flex-direction: row;
 }
 
 .dropdown{
-    padding-left:75px;
-=======
->>>>>>> 09ed49be46f1c2cab22dc9802e2b7854a45fd216
+    padding-left: 75px;
+}
+
 .background{
     background: #E9EAED;
     width: 100%;
@@ -26,11 +25,9 @@ body{
 }
 
 .lgscreen{display: block;}
-.smscreen{display: none;}
 
 .align{
     flex-direction: row;
-<<<<<<< HEAD
     margin-top: .4em;
     margin-left: -.28em;
 }
@@ -63,14 +60,66 @@ body{
     transition: all 250ms linear;
 }
 
-.smallmenu{
-    background-color: #3B5998;
-    margin-top: .438em;
-    border-radius: .1em;
+/* Smallmenu */
+.smscreen{
+    margin-top: .5em;
+    margin-bottom: 10em;
+    display: none;
 }
 
-.clic{
-    color: #fff;
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: -100px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+.btnsmscreen{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
 }
 
 @media screen and (max-width: 1367px){
@@ -78,12 +127,9 @@ body{
     .smscreen{display: block;}
 }
 
-
-
-
-
-
-=======
->>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
+@media screen and (max-width: 500px) {
+    .overlay a{font-size:20px;}
+    .overlay-content{margin-top: -70px;}
+    .closebtn{margin-top: -20px;}
 }
->>>>>>> 09ed49be46f1c2cab22dc9802e2b7854a45fd216
+/* /Smallmenu */

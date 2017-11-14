@@ -17,7 +17,7 @@
 <body>
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+        <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="#">Portail Léonard de Vinci</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -62,17 +62,14 @@
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
                     </li>
-<<<<<<< HEAD
                 </ul>
 
-
-=======
+                <ul>
                     <li class="nav-item  ">
                         <a class="nav-link" href="#">Occupation des salles</a>
                     </li>
                 </ul>
 
->>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
             </div>
         </nav>
     </header>
