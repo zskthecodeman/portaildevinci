@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 body{
     font-family: 'Roboto', sans-serif;
 }
 
+=======
+<<<<<<< HEAD
+.   navbar-nav{
+    flex-direction: row;
+}
+
+.dropdown{
+    padding-left:75px;
+=======
+>>>>>>> 09ed49be46f1c2cab22dc9802e2b7854a45fd216
 .background{
     background: #E9EAED;
     width: 100%;
@@ -19,6 +30,7 @@ body{
 
 .align{
     flex-direction: row;
+<<<<<<< HEAD
     margin-top: .4em;
     margin-left: -.28em;
 }
@@ -71,3 +83,7 @@ body{
 
 
 
+=======
+>>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
+}
+>>>>>>> 09ed49be46f1c2cab22dc9802e2b7854a45fd216
