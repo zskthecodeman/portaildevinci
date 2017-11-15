@@ -28,14 +28,11 @@
                                     <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
-<<<<<<< HEAD
-
                                     <br>
 
                                             <li class="nav-item">
                                                 <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
                                         Mes Notes</a>
-=======
                                     <br>
                                 <br>
 
@@ -58,8 +55,6 @@
                                                 <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
 
                                         Mes Notes</a>
-
->>>>>>> 0831598b58b6cc3a48004edf9fce50f019331aba
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
