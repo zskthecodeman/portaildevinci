@@ -66,10 +66,7 @@
                         </div>
                     </li>
                 </ul>
-<<<<<<< HEAD
-=======
 
->>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
             </div>
             </div>
 
