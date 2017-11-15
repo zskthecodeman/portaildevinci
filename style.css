@@ -298,9 +298,12 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 20px;
     width: 1347px;
     height: 38px;
+    border-radius: 3px;
 }
 
 .cadre {
+    border-radius: 3px;
     width: 1320px;
     height: 314px;
+    margin-left: 18px;
 }

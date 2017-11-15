@@ -13,4 +13,4 @@
 </div>
 
 <div class="barre-bleu"></div>
-<div class="cadre" style="1px solid black"></div>
+<div class="cadre" style="border: 1px solid black"></div>
