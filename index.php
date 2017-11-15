@@ -13,6 +13,11 @@
                                         </div>
                                         <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                                     </div>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
@@ -27,7 +32,11 @@
                                     <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
+<<<<<<< HEAD
                                     <br>
+=======
+                                <br>
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
 
                                     <nav class="lgscreen">
                                         <ul class="navbar-nav mr-auto align">
@@ -40,8 +49,13 @@
                                             <li class="nav-item">
                                                 <a href="#" class="btn btn-effect">Mes Absences</a>
                                             </li>
+<<<<<<< HEAD
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+=======
+                                            <li class="nav-item">
+                                                <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
                                         Mes Notes</a>
                                 </li>
                                 <li class="nav-item">
