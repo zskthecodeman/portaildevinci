@@ -144,7 +144,7 @@
                                                         <p class="black"><i class="fa fa-envelope" aria-hidden="true"></i> kmbappe@devinci.fr</p>
                                                     </ul>
                                                 </div>
-                                                <div class="col-md-4 contour profil"><img src="img/profil.jpg" width="100px"></div>
+                                                <div class="col-md-4 contour profil text-center"><img src="img/profil.jpg" width="60%"></div>
                                             </div>
                                         </div>
                                     </div>
