@@ -233,3 +233,7 @@ h1, h2, h3, h4, h5, h6{
 .first-box{
     width:100%;
 }
+@media screen AND (min-width: 1200px){
+    .row .first-box {
+        width: 48.717948717948715%;
+    }}
