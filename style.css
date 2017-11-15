@@ -251,8 +251,13 @@ h1, h2, h3, h4, h5, h6{
 
 }
 
-.icon{
-    
+.perso{
+    line-height: 10px;
+    padding-top: 5px;
+}
+
+.profil{
+
 }
 /* /Content */
 
@@ -266,8 +271,6 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 0px;
     margin-bottom: 25px;
     background-color: #fff;
-    border-color: #003781 !important;
-    border: 15px !important;
 }
 .first-box header h4 {
     display: inline-block;
@@ -275,22 +278,22 @@ h1, h2, h3, h4, h5, h6{
     font-weight: 400;
     margin: 5px 0;
     padding: 0;
->>>>>>> origin/master
 }
-
 /*page absences*/
 
 .carrer-blanc {
     background: #ffffff;
-    width: 1347px;
+    width: 1401px;
     height: 38px;
     margin-left: 18px;
     display: flex;
+    margin-top: 20px;
+
 }
 
 .carrer-blanc:hover {
     color: #485e8c;;
-    width: 1347px;
+    width: 1401px;
     height: 38px;
     margin-left: 18px;
     display: flex;
@@ -307,14 +310,15 @@ h1, h2, h3, h4, h5, h6{
 
 .barre-bleu {
     background: #3b5998;
-    width: 1347px;
+    width: 1401px;
     height: 38px;
-    border-radius: 3px;
+    border-radius: 1px 1px 0 0;
+
 }
 
 .cadre {
     border-radius: 3px;
-    width: 1347px;
+    width: 1401px;
     height: 314px;
     margin-left: 18px;
     margin-top: 20px;
