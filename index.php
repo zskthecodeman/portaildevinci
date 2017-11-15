@@ -13,8 +13,11 @@
                                         </div>
                                         <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                                     </div>
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
@@ -29,7 +32,34 @@
                                     <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
+<<<<<<< HEAD
+                                    <br>
+=======
                                 <br>
+<<<<<<< HEAD
+=======
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
+
+                                    <nav class="lgscreen">
+                                        <ul class="navbar-nav mr-auto align">
+                                            <li class="nav-item">
+                                                <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
+                                            </li>
+                                            <li class="nav-item align-baseline">
+                                                <a href="#" class="btn btn-effect">Mon E.D.T</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="btn btn-effect">Mes Absences</a>
+                                            </li>
+<<<<<<< HEAD
+                                <li class="nav-item">
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+=======
+                                            <li class="nav-item">
+                                                <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+>>>>>>> 2d958060e8a758e8d22fd3f1a5bbc1ec3eb5ffe5
+                                        Mes Notes</a>
+>>>>>>> 1fdcd7a2804ad892bebb04adbd15225d2c402131
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
