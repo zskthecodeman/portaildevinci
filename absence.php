@@ -66,12 +66,12 @@ include 'template/header.php';
                         <div id="myNav" class="overlay smscreen">
                             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                             <div class="overlay-content">
-                                <a href="#">Fiche Étudiant</a>
+                                <a href="index.php">Fiche Étudiant</a>
                                 <a href="#">Mon E.D.T</a>
                                 <a href="absence.php">Mes Absences</a>
                                 <a href="#">Mes Notes</a>
                                 <a href="#">Mes Cours</a>
-                                <a href="#">Documents</a>
+                                <a href="document.php">Documents</a>
                                 <a href="#">Stages</a>
                                 <a href="#">International</a>
                                 <a href="#">Rendus pédagogique</a>
