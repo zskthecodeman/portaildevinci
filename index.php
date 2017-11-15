@@ -28,33 +28,6 @@
                                     <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
-                                    <br>
-
-                                            <li class="nav-item">
-                                                <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
-                                        Mes Notes</a>
-                                    <br>
-                                <br>
-
-
-                                    <nav class="lgscreen">
-                                        <ul class="navbar-nav mr-auto align">
-                                            <li class="nav-item">
-                                                <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
-                                            </li>
-                                            <li class="nav-item align-baseline">
-                                                <a href="#" class="btn btn-effect">Mon E.D.T</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="btn btn-effect">Mes Absences</a>
-                                            </li>
-                                <li class="nav-item">
-                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
-
-                                            <li class="nav-item">
-                                                <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
-
-                                        Mes Notes</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
