@@ -1,4 +1,3 @@
-<div class="cadre" style="border: solid 1px black"><div class="barre-bleu"></div></div>
 
 <?php include 'template/header.php' ?>
     <div class="row">
@@ -147,14 +146,9 @@
                                                     </ul>
 
                                                 </div>
-<<<<<<< HEAD
                                                 <div class="col-md-1 contour profil"><img src="img/profil.jpg" width="100px"></div>
                                                 </div>
 
-=======
-                                                <div class="col-md-4 contour profil text-center"><img src="img/profil.jpg" width="60%"></div>
-                                            </div>
->>>>>>> 543dd60829af83009b02c478bf930d35e7e2b4f5
                                         </div>
 
 
