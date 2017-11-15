@@ -95,11 +95,15 @@ include 'template/header.php';
                     <div class="container-fluid" style="z-index: 100;">
                         <div class="content">
                             <header><h4>Fiche Étudiant : </h4></header>
-                            <div class="body">
 
+                            <div class="body">
+                                <div class="tete"><i class="fa fa-home house" aria-hidden="true" style="color: black"></i>
+                                    <div class="tete">&nbsp;&nbsp;<a href="">Mon tableau de bord</a> <span style="color: black">&nbsp;>&nbsp;</span> <a href="">Absences</a></div>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="cadre" style="border: solid 1px black"></div>
                 </div>
             </div>
         </div>

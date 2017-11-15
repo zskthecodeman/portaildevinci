@@ -113,6 +113,7 @@ include 'template/header.php';
                                         <header class="headox">
                                             <div class=body-box>
                                                 <h4>REGLEMENT</h4>
+                                                <ul>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
@@ -146,6 +147,7 @@ include 'template/header.php';
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
+                                                </ul>
                                             </div>
                                         </header>
                                         </div>
@@ -161,7 +163,7 @@ include 'template/header.php';
                                                             <th>Année universitaire</th>
                                                             <th>Téléchargement</th>
                                                         </tr></thead>
-                                                        
+
                                                         <tr>
                                                             <td><img src="/images/iim_28.png" class="rch_pict">  Certificat de scolarité</td>
                                                             <td>2016-2017</td>
