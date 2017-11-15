@@ -232,8 +232,37 @@ h1, h2, h3, h4, h5, h6{
 /*page document*/
 .first-box{
     width:100%;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    background-color: #fff;
 }
+
+.headox{
+    background-color: #3b5998;
+    border-color: #41659c;
+    color: #fff !important;
+    min-height: 30px;
+    padding: 4px 10px;
+    margin-bottom: 0;
+    width: 100%;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: solid 1px #C2C2C2;
+    -webkit-border-top-left-radius: 1px;
+    -moz-border-radius-topleft: 1px;
+    border-top-left-radius: 1px;
+    -webkit-border-top-right-radius: 1px;
+    -moz-border-radius-topright: 1px;
+    border-top-right-radius: 1px;
+}
+
 @media screen AND (min-width: 1200px){
     .row .first-box {
         width: 48.717948717948715%;
     }}
+.body-box {
+    clear: both;
+    padding: 12px;
+}

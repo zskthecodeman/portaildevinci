@@ -4,7 +4,7 @@ include 'template/header.php';
     <div class="container">
         <div class="row">
             <div class="col first-box">
-                <header>
+                <header class="headox">
                     <h4>1 of 2</h4>
                     <div class=body-box>
                         <p><a><i></i></a></p>
