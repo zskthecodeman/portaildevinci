@@ -87,6 +87,7 @@
                             document.getElementById("myNav").style.width = "100%";
                         }
 
+<<<<<<< HEAD
                         function closeNav() {
                             document.getElementById("myNav").style.width = "0%";
                         }
@@ -160,3 +161,9 @@
     </div>
 </div>
 <?php include 'template/footer.php'?>
+=======
+
+<div class="cadre" style="border: 1px solid black">
+    <div class="barre-bleu"></div>
+</div>
+>>>>>>> d04ae69e707dd4cac18fa3503dcde7b0d3e3b0cd
