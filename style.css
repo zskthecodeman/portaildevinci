@@ -238,6 +238,34 @@ h1, h2, h3, h4, h5, h6{
 
 .carrer-blanc {
     background: #ffffff;
-    width: 1314px;
-    height: 20px;
+    width: 1347px;
+    height: 38px;
+    margin-left: 18px;
+    display: flex;
+}
+
+.carrer-blanc:hover {
+    color: #485e8c;;
+    width: 1347px;
+    height: 38px;
+    margin-left: 18px;
+    display: flex;
+}
+
+.house {
+    margin-left: 15px;
+    margin-top: 11px;
+}
+
+.tete {
+    margin-top: 8px;
+}
+
+.barre-bleu {
+    background: #3b5998;
+    margin-left: 18px;
+    margin-top: 20px;
+    width: 1347px;
+    height: 38px;
+
 }

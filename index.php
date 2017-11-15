@@ -59,7 +59,7 @@
                             <div class="overlay-content">
                                 <a href="#">Fiche Étudiant</a>
                                 <a href="#">Mon E.D.T</a>
-                                <a href="mes-absences.php">Mes Absences</a>
+                                <a href="absence.php">Mes Absences</a>
                                 <a href="#">Mes Notes</a>
                                 <a href="#">Mes Cours</a>
                                 <a href="#">Documents</a>
