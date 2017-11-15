@@ -7,6 +7,13 @@
 
                     <div class="col-md-12">
 
+                                    <div class="container-fluid">
+                                        <div class="logodiv">
+                                            <img src="img/logo.png">
+                                        </div>
+                                        <h3 class="bgtitle">Tableau de bord Étudiant</h3>
+                                    </div>
+
 
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
@@ -22,6 +29,7 @@
                                     <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
+
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
                                         Mes Cours</a>
