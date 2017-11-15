@@ -79,7 +79,47 @@ include 'template/header.php';
         </script>
 
     </div>
+    <div class="container-fluid" style="z-index: 100;">
+        <div class="content">
 
+            <header><h4>Fiche Étudiant : </h4></header>
+
+            <div class="body">
+                <div class="row-fluid">
+                    <div class="alert alert-info">
+                        <div class="pull-right">
+                            Téléchargement de la fiche de réinscription :
+                            <a href="#"><img src="img/fichier.png"></a>
+                            <br>
+                            Mandat SEPA :
+                            <a href="#"><img src="img/fichier.png"></a>
+                        </div>
+                        <h4>Réinscriptions 2017-2018</h4>
+                        Votre inscription est validée.
+                        <br>
+                        <strong>&Agrave; titre indicatif :</strong>
+                        Le montant de votre inscription pour l'année universitaire
+                        <b>2017-2018</b>
+                        sera de
+                        <span class="label">7 100€</span>
+                        <br>
+                        Votre certificat
+                        <b>ImaginR</b>
+                        est disponible dans l'onglet
+                        <b>Document</b>
+                        ci-dessus.
+                    </div>
+                </div>
+                <div class="row-fluid">
+
+                </div>
+                <div class="row-fluid">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col first-box">
