@@ -94,16 +94,22 @@ include 'template/header.php';
 
                     <div class="container-fluid" style="z-index: 100;">
                         <div class="content">
-                            <header><h4>Fiche Étudiant : </h4></header>
+                            <header><h4>Absence de Monsieur WEB </h4></header>
 
                             <div class="body">
                                 <div class="tete"><i class="fa fa-home house" aria-hidden="true" style="color: black"></i>
-                                    <div class="tete">&nbsp;&nbsp;<a href="">Mon tableau de bord</a> <span style="color: black">&nbsp;>&nbsp;</span> <a href="">Absences</a></div>
+
+                                    <div>&nbsp;&nbsp;<a href="">Mon tableau de bord</a> <span style="color: black">&nbsp;>&nbsp;</span> <a href="">Absences</a></div>
                                 </div>
+                                        <div class="cadre1" style="color: black"><span style="color: #555555"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;
+                         2017 - PAIIMCE 2</span> <br>IIM - ANNEE 2 - AXE COMMUNICATION<br>DIGITAL ET E-BUSINESS</div>
+                                        <div class="cadre2" style="color: black"><span STYLE="color: #333333"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;
+                         2016 - PARPANS 1</span> <br>IIM - ANNEE 1 RESTART POST BAC</div>
+
                             </div>
                         </div>
                     </div>
-                    <div class="cadre" style="border: solid 1px black"></div>
+
                 </div>
             </div>
         </div>

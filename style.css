@@ -333,3 +333,31 @@ color:black;
     margin-left: 5px;
     padding-top: 50px;
 }
+.cadre1 {
+    background: #e5e5e5;
+    border-radius: 1px 0 0 1px;
+    width: 272px;
+    height: auto;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    letter-spacing: normal;
+    box-shadow: none;
+    border: 1px white solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cadre2 {
+    background: #f2f2f2;
+    border-radius: 1px 0 0 1px;
+    width: 273px;
+    height: auto;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    letter-spacing: normal;
+    border: 1px white solid;
+    margin-left: 20px;
+}
+
