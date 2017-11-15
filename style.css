@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 .   navbar-nav{
     flex-direction: row;
@@ -7,7 +7,7 @@
 .dropdown {
     padding-left: 75px;
 }
-=======
+
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #E9EAED;
@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5, h6{
     padding-left: 75px;
 }
 
->>>>>>> a50a98923133527675924b16392cd70172f18ce8
 .background{
     background: #E9EAED;
     width: 100%;
@@ -60,9 +59,7 @@ h1, h2, h3, h4, h5, h6{
 
 .align{
     flex-direction: row;
-<<<<<<< HEAD
 }
-=======
     margin-left: -.28em;
     margin-top: -1.250em;
 }
@@ -232,4 +229,7 @@ h1, h2, h3, h4, h5, h6{
     .row-fluid{width: 100%;}
 }
 /* /Content */
->>>>>>> a50a98923133527675924b16392cd70172f18ce8
+.nav-link , .navbar-brand{
+    color: #fff !important;
+
+}

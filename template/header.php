@@ -24,7 +24,7 @@
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav mr-auto ">
                     <li class="nav-item">
                         <a class="nav-link" href="#">Tableau de bord<span class="sr-only">(current)</span></a>
                     </li>
@@ -63,16 +63,8 @@
                         </div>
                     </li>
                 </ul>
-<<<<<<< HEAD
-=======
 
-                <ul>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Occupation des salles</a>
-                    </li>
-                </ul>
 
->>>>>>> a50a98923133527675924b16392cd70172f18ce8
             </div>
         </nav>
     </header>
