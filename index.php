@@ -1,3 +1,5 @@
+<div class="cadre" style="border: solid 1px black"><div class="barre-bleu"></div></div>
+
 <?php include 'template/header.php' ?>
     <div class="row">
         <div class="col-md-12 background">
