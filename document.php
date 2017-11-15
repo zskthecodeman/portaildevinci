@@ -91,6 +91,19 @@ include 'template/header.php';
                             }
                         </script>
 
+
+
+
+
+                        
+
+
+
+
+
+
+
+
                     </div>
 
                     <div class="container-fluid" style="z-index: 100;">
@@ -100,7 +113,8 @@ include 'template/header.php';
 
                             <div class="body">
                                 <div class="container-fluid">
-                                    <div class="col first-box">
+                                    <div class="col">
+                                        <div class="first-box">
                                         <header class="headox">
                                             <h4>1 of 2</h4>
                                             <div class=body-box>
@@ -141,47 +155,25 @@ include 'template/header.php';
                                                 <hr>
                                             </div>
                                         </header>
-                                    </div>
-                                    <div class="col">
-                                        1 of 2
-                                    </div>
-                                </div>
-                                </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="container">
-                                            <div class="row">
-                                                <div class="col-md-4 contour">
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
 
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Num. Badge</strong> 306729</p><br>
-
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
-                                                </div>
+                                            <div class="col">
+                                                1 of 2
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6" style="border: 1px solid red;">
-                                        <h4>sdfsdf</h4>
-                                    </div>
                                 </div>
-                                <div class="container-fluid">
+                                </div>
+                                </div>
 
-                                </div>
+
                             </div>
-
-                        </div>
-                    </div>
 
                 </div>
             </div>
-
         </div>
     </div>
+
+
 <?php
 include 'template/footer.php';
 ?>
