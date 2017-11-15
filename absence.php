@@ -13,3 +13,4 @@
 </div>
 
 <div class="barre-bleu"></div>
+<div class="cadre" style="1px solid black"></div>

@@ -250,8 +250,6 @@ h1, h2, h3, h4, h5, h6{
 /*page document*/
 .first-box{
     width:100%;
-<<<<<<< HEAD
-=======
     margin-top: 0px;
     margin-bottom: 25px;
     background-color: #fff;
@@ -300,5 +298,9 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 20px;
     width: 1347px;
     height: 38px;
+}
 
+.cadre {
+    width: 1320px;
+    height: 314px;
 }
