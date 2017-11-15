@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6{
     color: inherit;
 }
 
+h4{
+    color: red;
+}
+
 .navbar{background-color: #3B5998;}
 
 .navbar-nav{
@@ -228,6 +232,17 @@ h1, h2, h3, h4, h5, h6{
 @media (min-width: 1200px){
     .row-fluid{width: 100%;}
 }
+
+.contour{
+    border:1px solid #003781;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+.black{
+    color: #000;}
 /* /Content */
 
 .nav-link , .navbar-brand{
@@ -237,4 +252,46 @@ h1, h2, h3, h4, h5, h6{
 /*page document*/
 .first-box{
     width:100%;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    background-color: #fff;
+    border-color: #003781 !important;
+    border: 15px !important;
+}
+.first-box header h4 {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 5px 0;
+    padding: 0;
+}
+
+.headox{
+    background-color: #3b5998;
+    border-color: #41659c;
+    color: #fff !important;
+    min-height: 30px;
+    padding: 4px 10px;
+    margin-bottom: 0;
+    width: 100%;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: solid 1px #C2C2C2;
+    -webkit-border-top-left-radius: 1px;
+    -moz-border-radius-topleft: 1px;
+    border-top-left-radius: 1px;
+    -webkit-border-top-right-radius: 1px;
+    -moz-border-radius-topright: 1px;
+    border-top-right-radius: 1px;
+}
+
+@media screen AND (min-width: 1200px){
+    .row .first-box {
+        width: 48.717948717948715%;
+    }}
+.body-box {
+    clear: both;
+    padding: 12px;
 }

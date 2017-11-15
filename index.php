@@ -7,15 +7,14 @@
 
                     <div class="col-md-12">
 
-                        <div class="container-fluid">
-                            <div class="logodiv">
-                                <img src="img/logo.png">
-                            </div>
-                            <h3 class="bgtitle">Tableau de bord Étudiant</h3>
-                        </div>
+                                    <div class="container-fluid">
+                                        <div class="logodiv">
+                                            <img src="img/logo.png">
+                                        </div>
+                                        <h3 class="bgtitle">Tableau de bord Étudiant</h3>
+                                    </div>
 
-                        <br>
-
+<<<<<<< HEAD
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
@@ -30,6 +29,21 @@
                                     <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
+=======
+                                    <br>
+
+                                    <nav class="lgscreen">
+                                        <ul class="navbar-nav mr-auto align">
+                                            <li class="nav-item">
+                                                <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
+                                            </li>
+                                            <li class="nav-item align-baseline">
+                                                <a href="#" class="btn btn-effect">Mon E.D.T</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="btn btn-effect">Mes Absences</a>
+                                            </li>
+>>>>>>> d415f80e902d42e93e2673aeae0d8d58a6fe100f
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
                                         Mes Notes</a>
@@ -101,7 +115,7 @@
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-                                <div class="row-fluid">
+                                <div class="container-fluid">
                                     <div class="alert alert-info">
                                         <div class="pull-right">
                                             Téléchargement de la fiche de réinscription :
@@ -126,10 +140,28 @@
                                             ci-dessus.
                                     </div>
                                 </div>
-                                <div class="row-fluid">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-4 contour">
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
 
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>Num. Badge</strong> 306729</p><br>
+
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" style="border: 1px solid red;">
+                                        <h4>sdfsdf</h4>
+                                    </div>
                                 </div>
-                                <div class="row-fluid">
+                                <div class="container-fluid">
 
                                 </div>
                             </div>
