@@ -39,7 +39,8 @@
                                         Documents</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-coffee" aria-hidden="true"></i>
+
                                         Stages</a>
                                 </li>
                                 <li class="nav-item">
@@ -47,7 +48,8 @@
                                         International</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-cloud-upload" aria-hidden="true"></i>
+
                                         Rendu pédagogique</a>
                                 </li>
                                 <li class="nav-item">
