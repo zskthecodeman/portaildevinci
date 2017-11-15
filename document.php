@@ -15,43 +15,50 @@ include 'template/header.php';
                             </div>
                             <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                         </div>
-
-                        <br>
-
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
-                                    <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
+                                    <a href="index.php" class="btn btn-effect"><i class="fa fa-user" aria-hidden="true"></i>
+                                        Fiche Étudiant</a>
                                 </li>
                                 <li class="nav-item align-baseline">
-                                    <a href="#" class="btn btn-effect">Mon E.D.T</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-calendar" aria-hidden="true"></i>
+                                        Mon E.D.T</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Absences</a>
+                                    <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+                                        Mes Absences</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+                                        Mes Cours</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Notes</a>
+                                    <a href="document.php" class="btn btn-effect"><i class="fa fa-file-o" aria-hidden="true"></i>
+                                        Documents</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Cours</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-coffee" aria-hidden="true"></i>
+
+                                        Stages</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="document.php" class="btn btn-effect">Documents</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-plane" aria-hidden="true"></i>
+                                        International</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Stages</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-cloud-upload" aria-hidden="true"></i>
+
+                                        Rendu pédagogique</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">International</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-money" aria-hidden="true"></i>
+                                        Finances</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Rendus pédagogique</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Finances</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Promotion école</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-info" aria-hidden="true"></i>
+                                        Promotion école</a>
                                 </li>
                             </ul>
                         </nav>
@@ -61,8 +68,8 @@ include 'template/header.php';
                             <div class="overlay-content">
                                 <a href="#">Fiche Étudiant</a>
                                 <a href="#">Mon E.D.T</a>
-                                <a href="#">Mes Absences</a>
-                                <a href="#">Mes Note</a>
+                                <a href="absence.php">Mes Absences</a>
+                                <a href="#">Mes Notes</a>
                                 <a href="#">Mes Cours</a>
                                 <a href="#">Documents</a>
                                 <a href="#">Stages</a>
@@ -83,8 +90,16 @@ include 'template/header.php';
                                 document.getElementById("myNav").style.width = "0%";
                             }
                         </script>
-
                     </div>
+
+
+
+
+
+
+
+
+
 
                     <div class="container-fluid" style="z-index: 100;">
                         <div class="content">
@@ -92,91 +107,67 @@ include 'template/header.php';
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-                                <div class="container-fluid">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col first-box">
-                                                <header class="headox">
-                                                    <h4>1 of 2</h4>
-                                                    <div class=body-box>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                        <h4>SCOLARITE</h4>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                        <h4>STAGES</h4>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                        <h4>GENERAL</h4>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                        <h4>VIE ASSOCIATIVE</h4>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                        <h4>SPORT</h4>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <p><a><i></i></a></p>
-                                                        <hr>
-                                                    </div>
-                                                </header>
+
+                                    <div class="col">
+                                        <div class="first-box">
+                                        <header class="headox">
+                                            <h4>1 of 2</h4>
+                                            <div class=body-box>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
+                                                <h4>SCOLARITE</h4>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
+                                                <h4>STAGES</h4>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
+                                                <h4>GENERAL</h4>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
+                                                <h4>VIE ASSOCIATIVE</h4>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
+                                                <h4>SPORT</h4>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <p><a><i></i></a></p>
+                                                <hr>
                                             </div>
+                                        </header>
+
                                             <div class="col">
                                                 1 of 2
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="container">
-                                            <div class="row">
-                                                <div class="col-md-4 contour">
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
-
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Num. Badge</strong> 306729</p><br>
-
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
-                                                    <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6" style="border: 1px solid red;">
-                                        <h4>sdfsdf</h4>
-                                    </div>
-                                </div>
-                                <div class="container-fluid">
 
                                 </div>
+
+
                             </div>
-
-                        </div>
-                    </div>
 
                 </div>
             </div>
-
         </div>
     </div>
+
 
 <?php
 include 'template/footer.php';
