@@ -25,7 +25,7 @@
                                         Mon E.D.T</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+                                    <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
                                     <br>
