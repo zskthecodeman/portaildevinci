@@ -90,7 +90,7 @@
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-                                <div class="row-fluid">
+                                <div class="container-fluid">
                                     <div class="alert alert-info">
                                         <div class="pull-right">
                                             Téléchargement de la fiche de réinscription :
@@ -115,10 +115,28 @@
                                             ci-dessus.
                                     </div>
                                 </div>
-                                <div class="row-fluid">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-4 contour">
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
 
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>Num. Badge</strong> 306729</p><br>
+
+                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" style="border: 1px solid red;">
+                                        <h4>sdfsdf</h4>
+                                    </div>
                                 </div>
-                                <div class="row-fluid">
+                                <div class="container-fluid">
 
                                 </div>
                             </div>
