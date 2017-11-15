@@ -15,8 +15,6 @@ include 'template/header.php';
                             </div>
                             <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                         </div>
-
-
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
