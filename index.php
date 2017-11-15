@@ -125,32 +125,36 @@
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="container">
+                                    <div class="col-md-12">
+                                        <div class="container-fluid">
                                             <div class="row">
-                                                <div class="col-md-4 contour">
+                                                <div class="col-md-2 contour">
                                                     <ul>
-
-
-                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  Identifiant</strong> kmbappe</p><br>
-
-
-                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  Num. Badge</strong> 306729</p><br>
-
-
-                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong> Identifiant</strong> kmbappe</p><br>
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong> Num. Badge</strong> 306729</p><br>
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong> ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
                                                     </ul>
                                                 </div>
+                                                <div class="col-md-3 contour">
+                                                    <ul class="perso">
+                                                        <p class="black"><i class="fa fa-home" aria-hidden="true"></i> 104 avenue de la frite</p>
+                                                        <p class="black">Croitre (15740) - France</p>
+                                                        <p class="black"><i class="fa fa-phone" aria-hidden="true"></i> 0640495012</p>
+                                                        <p class="black"><i class="fa fa-envelope-o" aria-hidden="true"></i> kmbappe@gmail.com</p><br>
+                                                        <p class="black"><i class="fa fa-envelope" aria-hidden="true"></i> kmbappe@devinci.fr</p>
+                                                    </ul>
+
+                                                </div>
+                                                <div class="col-md-4 contour profil"><img src="img/profil.jpg" width="100px"></div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-6" style="border: 1px solid red;">
-                                        <h4>sdfsdf</h4>
-                                    </div>
-                                </div>
-                                <div class="container-fluid">
 
-                                </div>
+                                    <div class="col-md-2 contour1" style="border: 1px solid red";>
+                                        <button class="button1 pull-right">Demande de modification</button>
+                                    </div>
+                                    </div>
+
+
                             </div>
 
                         </div>
