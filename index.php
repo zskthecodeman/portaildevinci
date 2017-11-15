@@ -13,8 +13,6 @@
                                         </div>
                                         <h3 class="bgtitle">Tableau de bord Étudiant</h3>
                                     </div>
-
-<<<<<<< HEAD
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
@@ -29,7 +27,6 @@
                                     <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
-=======
                                     <br>
 
                                     <nav class="lgscreen">
@@ -43,7 +40,6 @@
                                             <li class="nav-item">
                                                 <a href="#" class="btn btn-effect">Mes Absences</a>
                                             </li>
->>>>>>> d415f80e902d42e93e2673aeae0d8d58a6fe100f
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
                                         Mes Notes</a>
