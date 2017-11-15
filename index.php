@@ -1,8 +1,4 @@
 <?php include 'template/header.php' ?>
-
-<<<<<<< HEAD
-<?php include 'template/footer.php'; ?>
-=======
     <div class="row">
         <div class="col-md-12 background">
             <div class="container-fluid">
@@ -33,6 +29,6 @@
             </div>
         </div>
     </div>
->>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
+
 
 <?php include 'template/footer.php'; ?>

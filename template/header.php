@@ -60,17 +60,7 @@
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
                     </li>
-<<<<<<< HEAD
                 </ul>
-
-
-=======
-                    <li class="nav-item  ">
-                        <a class="nav-link" href="#">Occupation des salles</a>
-                    </li>
-                </ul>
-
->>>>>>> 3e92a5bbe3008efd66025113d1d94c2171637d4d
             </div>
         </nav>
     </header>
