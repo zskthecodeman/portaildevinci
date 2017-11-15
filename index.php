@@ -34,7 +34,7 @@
                                     <a href="#" class="btn btn-effect">Mes Cours</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Documents</a>
+                                    <a href="document.php" class="btn btn-effect">Documents</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect">Stages</a>
