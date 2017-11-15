@@ -224,10 +224,12 @@ h1, h2, h3, h4, h5, h6{
     .row-fluid{width: 100%;}
 }
 /* /Content */
-.first-box{
-            width:100%;
-}
+
 .nav-link , .navbar-brand{
     color: #fff !important;
 
+}
+/*page document*/
+.first-box{
+    width:100%;
 }
