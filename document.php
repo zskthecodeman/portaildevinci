@@ -107,8 +107,8 @@ include 'template/header.php';
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-
-                                    <div class="col">
+                                <div class="row">
+                                    <div class="col-6">
                                         <div class="first-box">
                                         <header class="headox">
                                             <h4>1 of 2</h4>
@@ -152,7 +152,7 @@ include 'template/header.php';
                                         </header>
                                         </div>
                                     </div>
-                                    <div class="col">
+                                    <div class="col-6">
                                         <div class="first-box">
                                             <header class="headox">
                                                 <h4>2 of 2</h4>
@@ -196,6 +196,7 @@ include 'template/header.php';
                                             </header>
                                         </div>
                                     </div>
+                            </div>
                             </div>
                         </div>
                     </div>
