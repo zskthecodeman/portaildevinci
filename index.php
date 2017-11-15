@@ -19,37 +19,48 @@
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
-                                    <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
+                                    <a href="index.php" class="btn btn-effect"><i class="fa fa-user" aria-hidden="true"></i>
+                                        Fiche Étudiant</a>
                                 </li>
                                 <li class="nav-item align-baseline">
-                                    <a href="#" class="btn btn-effect">Mon E.D.T</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-calendar" aria-hidden="true"></i>
+                                        Mon E.D.T</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Absences</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+                                        Mes Absences</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Notes</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+                                        Mes Notes</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Cours</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
+                                        Mes Cours</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="document.php" class="btn btn-effect">Documents</a>
+                                    <a href="document.php" class="btn btn-effect"><i class="fa fa-file-o" aria-hidden="true"></i>
+                                        Documents</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Stages</a>
+                                    <a href="#" class="btn btn-effect">
+                                        Stages</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">International</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-plane" aria-hidden="true"></i>
+                                        International</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Rendus pédagogique</a>
+                                    <a href="#" class="btn btn-effect">
+                                        Rendus pédagogique</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Finances</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-money" aria-hidden="true"></i>
+                                        Finances</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Promotion école</a>
+                                    <a href="#" class="btn btn-effect"><i class="fa fa-info" aria-hidden="true"></i>
+                                        Promotion école</a>
                                 </li>
                             </ul>
                         </nav>
