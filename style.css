@@ -235,6 +235,15 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 0px;
     margin-bottom: 25px;
     background-color: #fff;
+    border-color: #003781 !important;
+    border: 15px !important;
+}
+.first-box header h4 {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 5px 0;
+    padding: 0;
 }
 
 .headox{

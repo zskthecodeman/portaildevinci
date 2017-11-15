@@ -7,26 +7,26 @@
 
                     <div class="col-md-12">
 
-                        <div class="container-fluid">
-                            <div class="logodiv">
-                                <img src="img/logo.png">
-                            </div>
-                            <h3 class="bgtitle">Tableau de bord Étudiant</h3>
-                        </div>
+                                    <div class="container-fluid">
+                                        <div class="logodiv">
+                                            <img src="img/logo.png">
+                                        </div>
+                                        <h3 class="bgtitle">Tableau de bord Étudiant</h3>
+                                    </div>
 
-                        <br>
+                                    <br>
 
-                        <nav class="lgscreen">
-                            <ul class="navbar-nav mr-auto align">
-                                <li class="nav-item">
-                                    <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
-                                </li>
-                                <li class="nav-item align-baseline">
-                                    <a href="#" class="btn btn-effect">Mon E.D.T</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Mes Absences</a>
-                                </li>
+                                    <nav class="lgscreen">
+                                        <ul class="navbar-nav mr-auto align">
+                                            <li class="nav-item">
+                                                <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
+                                            </li>
+                                            <li class="nav-item align-baseline">
+                                                <a href="#" class="btn btn-effect">Mon E.D.T</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="btn btn-effect">Mes Absences</a>
+                                            </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect">Mes Notes</a>
                                 </li>
