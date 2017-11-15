@@ -150,19 +150,14 @@ include 'template/header.php';
                                                 <hr>
                                             </div>
                                         </header>
-
-                                            <div class="col">
-                                                1 of 2
-                                            </div>
                                         </div>
                                     </div>
-                                </div>
-
-                                </div>
-
-
+                                    <div class="col">
+                                        1 of 2
+                                    </div>
                             </div>
-
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
