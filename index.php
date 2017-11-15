@@ -131,9 +131,4 @@
 
         </div>
     </div>
-<<<<<<< HEAD
-
-
-=======
->>>>>>> a50a98923133527675924b16392cd70172f18ce8
 <?php include 'template/footer.php'; ?>

@@ -55,7 +55,6 @@ h1, h2, h3, h4, h5, h6{
 
 .align{
     flex-direction: row;
-}
     margin-left: -.28em;
     margin-top: -1.250em;
 }
@@ -225,7 +224,10 @@ h1, h2, h3, h4, h5, h6{
     .row-fluid{width: 100%;}
 }
 /* /Content */
->>>>>>> a50a98923133527675924b16392cd70172f18ce8
 .first-box{
             width:100%;
-        }
+}
+.nav-link , .navbar-brand{
+    color: #fff !important;
+
+}
