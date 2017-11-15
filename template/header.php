@@ -22,9 +22,9 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-
+            <div class="container-fluid">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto ">
+                <ul class="navbar-nav mr-auto row">
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Tableau de bord<span class="sr-only">(current)</span></a>
                     </li>
@@ -46,24 +46,32 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Inscription sport</a>
                     </li>
-                    <li class="nav-item ">
+                    <li class="nav-item">
                         <a class="nav-link " href="#">Occupation des salles</a>
                     </li>
                     </ul>
                 <ul class=" navbar-nav ml-auto">
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Dropdown
+
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#"><i class="fa fa-user" aria-hidden="true"></i>
+                                Mon profil</a>
+                            <a class="dropdown-item" href="#"><i class="fa fa-power-off" aria-hidden="true"></i>
+                                Déconnexion</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Something else here</a>
+                            <a class="dropdown-item" href="#"><i class="fa fa-info" aria-hidden="true"></i>
+                                Aide</a>
                         </div>
                     </li>
                 </ul>
+<<<<<<< HEAD
+=======
 
+>>>>>>> d415f80e902d42e93e2673aeae0d8d58a6fe100f
             </div>
+            </div>
+
         </nav>
     </header>
