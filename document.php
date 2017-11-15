@@ -111,9 +111,9 @@ include 'template/header.php';
                                     <div class="col-6">
                                         <div class="first-box">
                                         <header class="headox">
-                                            <div class=body-box>
-                                                <h4>REGLEMENT</h4>
+                                            <div class=body-box-1>
                                                 <ul>
+                                                <h4>REGLEMENT</h4>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>

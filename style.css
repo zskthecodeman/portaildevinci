@@ -271,6 +271,15 @@ h1, h2, h3, h4, h5, h6{
     margin: 5px 0;
     padding: 0;
 }
+.body-box-1{
+    background-color: rgb(255, 255, 255);
+}
+.body-box-1 h4{
+    color: black;
+}
+.body-box-1 a{
+    color: black;
+}
 /*page absences*/
 
 .carrer-blanc {
