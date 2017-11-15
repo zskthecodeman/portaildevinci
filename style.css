@@ -294,8 +294,6 @@ h1, h2, h3, h4, h5, h6{
 
 .barre-bleu {
     background: #3b5998;
-    margin-left: 18px;
-    margin-top: 20px;
     width: 1347px;
     height: 38px;
     border-radius: 3px;
@@ -303,7 +301,8 @@ h1, h2, h3, h4, h5, h6{
 
 .cadre {
     border-radius: 3px;
-    width: 1320px;
+    width: 1347px;
     height: 314px;
     margin-left: 18px;
+    margin-top: 20px;
 }
