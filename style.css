@@ -242,8 +242,13 @@ h1, h2, h3, h4, h5, h6{
 
 }
 
-.icon{
-    
+.perso{
+    line-height: 10px;
+    padding-top: 5px;
+}
+
+.profil{
+
 }
 /* /Content */
 
