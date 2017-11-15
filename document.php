@@ -107,95 +107,105 @@ include 'template/header.php';
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-
-                                    <div class="col">
+                                <div class="row">
+                                    <div class="col-6">
                                         <div class="first-box">
                                         <header class="headox">
-                                            <h4>1 of 2</h4>
                                             <div class=body-box>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <h4>REGLEMENT</h4>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                                 <h4>SCOLARITE</h4>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                                 <h4>STAGES</h4>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                                 <h4>GENERAL</h4>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                                 <h4>VIE ASSOCIATIVE</h4>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                                 <h4>SPORT</h4>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
-                                                <p><a><i></i></a></p>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
+                                                <li><a href="#"><i class="icon icon-file"></i>"Réglement intérieur 2017-2018"</a></li>
                                                 <hr>
                                             </div>
                                         </header>
                                         </div>
                                     </div>
-                                    <div class="col">
+                                    <div class="col-6">
                                         <div class="first-box">
                                             <header class="headox">
-                                                <h4>2 of 2</h4>
+                                                <h4>CERTIFICATS</h4>
                                                 <div class=body-box>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
-                                                    <h4>SCOLARITE</h4>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
-                                                    <h4>STAGES</h4>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
-                                                    <h4>GENERAL</h4>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
-                                                    <h4>VIE ASSOCIATIVE</h4>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
-                                                    <h4>SPORT</h4>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <p><a><i></i></a></p>
-                                                    <hr>
+                                                    <table class="table table-bordered">
+                                                        <thead>
+                                                        <tr><th>Document</th>
+                                                            <th>Année universitaire</th>
+                                                            <th>Téléchargement</th>
+                                                        </tr></thead>
+                                                        
+                                                        <tr>
+                                                            <td><img src="/images/iim_28.png" class="rch_pict">  Certificat de scolarité</td>
+                                                            <td>2016-2017</td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Attestation sécurité sociale</td>
+                                                            <td>2016-2017</td>
+                                                            <td
+
+
+                                                            </td>
+                                                        </tr>
+
+
+                                                        <tr>
+                                                            <td><img src="/images/iim_28.png" class="rch_pict">  Certificat de scolarité</td>
+                                                            <td>2017-2018</td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Attestation sécurité sociale</td>
+                                                            <td>2017-2018</td>
+                                                            <td
+
+
+                                                            </td>
+                                                        </tr>
+
+
+                                                        <tr>
+                                                            <td>Certificat ImaginR</td>
+                                                            <td>2017-2018</td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                 </div>
                                             </header>
                                         </div>
                                     </div>
+                            </div>
                             </div>
                         </div>
                     </div>
