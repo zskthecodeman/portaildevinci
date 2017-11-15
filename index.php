@@ -125,10 +125,10 @@
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="container">
+                                    <div class="col-md-12">
+                                        <div class="container-fluid">
                                             <div class="row">
-                                                <div class="col-md-4 contour">
+                                                <div class="col-md-2 contour">
                                                     <ul>
 
 
@@ -140,17 +140,17 @@
 
                                                     <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
                                                     </ul>
+
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-6" style="border: 1px solid red;">
-                                        <h4>sdfsdf</h4>
-                                    </div>
-                                </div>
-                                <div class="container-fluid">
 
-                                </div>
+                                    <div class="col-md-2 contour1" style="border: 1px solid red";>
+                                        <button class="button1 pull-right">Demande de modification</button>
+                                    </div>
+                                    </div>
+
+
                             </div>
 
                         </div>
