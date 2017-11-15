@@ -47,7 +47,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect">
-                                        Rendus pédagogique</a>
+                                        Rendu pédagogique</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-money" aria-hidden="true"></i>

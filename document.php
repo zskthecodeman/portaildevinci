@@ -62,7 +62,7 @@ include 'template/header.php';
                                 <a href="#">Fiche Étudiant</a>
                                 <a href="#">Mon E.D.T</a>
                                 <a href="#">Mes Absences</a>
-                                <a href="#">Mes Notes</a>
+                                <a href="#">Mes Note</a>
                                 <a href="#">Mes Cours</a>
                                 <a href="#">Documents</a>
                                 <a href="#">Stages</a>
