@@ -92,21 +92,12 @@ include 'template/header.php';
                         </script>
                     </div>
 
-
-
-
-
-
-
-
-
-
                     <div class="container-fluid" style="z-index: 100;">
                         <div class="content">
-
                             <header><h4>Fiche Étudiant : </h4></header>
+                            <div class="body">
 
-                            
+                            </div>
                         </div>
                     </div>
                 </div>
