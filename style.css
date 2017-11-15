@@ -272,7 +272,13 @@ h1, h2, h3, h4, h5, h6{
     padding: 0;
 }
 .body-box-1{
-    background-color: rgb(39, 43, 128);
+    background-color: rgb(255, 255, 255);
+}
+.body-box-1 h4{
+    color: black;
+}
+.body-box-1 a{
+    color: black;
 }
 /*page absences*/
 
