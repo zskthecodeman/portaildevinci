@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .   navbar-nav{
     flex-direction: row;
@@ -6,18 +7,229 @@
 .dropdown {
     padding-left: 75px;
 }
-.background{
+=======
+body{
+    font-family: 'Roboto', sans-serif;
     background-color: #E9EAED;
+}
+
+h1, h2, h3{line-height: 2em}
+
+h1, h2, h3, h4, h5, h6{
+    margin: .625em 0;
+    font-family: inherit;
+    font-weight: normal;
+    color: inherit;
+}
+
+.navbar{background-color: #3B5998;}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
+.dropdown{
+    padding-left: 75px;
+}
+
+>>>>>>> a50a98923133527675924b16392cd70172f18ce8
+.background{
+    background: #E9EAED;
     width: 100%;
     height: auto;
     overflow: hidden;
 }
 
-.white{
-    background-color: #ffffff;
-    border-radius: .1em;
+.logodiv{
+    float: left;
+    margin-right: 15px;
+    background: #fff;
+    border: 1px solid #bbb;
+    padding: 5px;
+    height: 40px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
 }
+
+.bgtitle{
+    font-size: 1.531em;
+}
+
+.lgscreen{display: block;}
 
 .align{
     flex-direction: row;
+<<<<<<< HEAD
 }
+=======
+    margin-left: -.28em;
+    margin-top: -1.250em;
+}
+
+.align li{
+    margin-left: .3em;
+}
+
+.btn{
+    color: #fff;
+    position: relative;
+}
+
+.btn-effect{
+    background: #e3403a;
+    border: .125em solid #da251f;
+    box-shadow: 0em .125em 0 #d6251f, .125em .250em .375em #e02a24;
+    -webkit-transition: all 150ms linear;
+    transition: all 150ms linear;
+}
+
+.btn-effect:hover{
+    background: #e02c26;
+    border: .125em solid rgba(0, 0, 0, .05);
+    box-shadow: .125em .125em .250em rgba(255, 255, 255, 0.2);
+    color: #ec817d;
+    text-decoration: none;
+    text-shadow: -.125em -.125em 0 #c2211c;
+    -webkit-transition: all 250ms linear;
+    transition: all 250ms linear;
+}
+
+/* Smallmenu */
+.smscreen{
+    margin-top: .5em;
+    margin-bottom: 10em;
+    display: none;
+}
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: -100px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+.btnsmscreen{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+
+@media screen and (max-width: 1367px){
+    .lgscreen{display: none;}
+    .smscreen{display: block;}
+}
+
+@media screen and (max-width: 500px) {
+    .overlay a{font-size:20px;}
+    .overlay-content{margin-top: -70px;}
+    .closebtn{margin-top: -20px;}
+}
+/* /Smallmenu */
+
+/* Content */
+.content{
+    border: .063em solid #003781;
+    margin-top: 0;
+    margin-bottom: 1.563em;
+    background-color: #fff;
+    border-radius: 0.188em;
+    color: #fff;
+}
+
+.content, header{
+    background-color: #3B5998;
+    border-color: #41659C;
+    min-height: 1.875em;
+    padding: .250em .625em;
+    margin-bottom: 0;
+    width: 100%;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-top-left-radius: .188em;
+    border-top-right-radius: .188em;
+}
+
+.content .body{
+    padding: .750em;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #fff;
+}
+
+.alert-info{
+    background-color: #ECEFF6;
+    border-color: #D4DEEB;
+    color: #3A87AD;
+}
+
+.alert{
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.label{
+    border-radius: .188em;
+    display: inline-block;
+    padding: 2px 4px;
+    font-size: 11.844px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #fff;
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #999;
+}
+
+@media (min-width: 1200px){
+    .row-fluid{width: 100%;}
+}
+/* /Content */
+>>>>>>> a50a98923133527675924b16392cd70172f18ce8

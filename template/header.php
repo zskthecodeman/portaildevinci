@@ -8,6 +8,8 @@
 
     <title>Portail Léonard de Vinci</title>
 
+    <link rel="stylesheet" href="javascript.js" type="text/javascript">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -15,7 +17,7 @@
 <body>
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+        <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="#">Portail Léonard de Vinci</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -61,6 +63,16 @@
                         </div>
                     </li>
                 </ul>
+<<<<<<< HEAD
+=======
+
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Occupation des salles</a>
+                    </li>
+                </ul>
+
+>>>>>>> a50a98923133527675924b16392cd70172f18ce8
             </div>
         </nav>
     </header>
