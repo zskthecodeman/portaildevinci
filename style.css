@@ -24,10 +24,6 @@ h1, h2, h3, h4, h5, h6{
     color: inherit;
 }
 
-h4{
-    color: red;
-}
-
 .navbar{background-color: #3B5998;}
 
 .navbar-nav{
@@ -242,7 +238,12 @@ h4{
 }
 
 .black{
-    color: #000;}
+    color: #000;
+}
+
+.icon{
+    
+}
 /* /Content */
 
 .nav-link , .navbar-brand{

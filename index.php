@@ -143,13 +143,13 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-4 contour">
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
                                                     <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
 
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
                                                     <p class="black"><strong>Num. Badge</strong> 306729</p><br>
 
-                                                    <i class="fa fa-user black" aria-hidden="true"></i>
+                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
                                                     <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
                                                 </div>
                                             </div>
