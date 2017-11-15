@@ -129,14 +129,17 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-4 contour">
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Identifiant</strong> kmbappe</p><br>
+                                                    <ul>
 
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>Num. Badge</strong> 306729</p><br>
 
-                                                    <i class="fa fa-user black icon" aria-hidden="true"></i>
-                                                    <p class="black"><strong>ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  Identifiant</strong> kmbappe</p><br>
+
+
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  Num. Badge</strong> 306729</p><br>
+
+
+                                                    <p class="black"><i class="fa fa-user black icon" aria-hidden="true"></i><strong>  ID Administratif</strong> <span class="label"> 48KMBAPPE</span></p>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </div>
