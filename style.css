@@ -250,6 +250,8 @@ h1, h2, h3, h4, h5, h6{
 /*page document*/
 .first-box{
     width:100%;
+<<<<<<< HEAD
+=======
     margin-top: 0px;
     margin-bottom: 25px;
     background-color: #fff;
@@ -262,34 +264,41 @@ h1, h2, h3, h4, h5, h6{
     font-weight: 400;
     margin: 5px 0;
     padding: 0;
+>>>>>>> origin/master
 }
 
-.headox{
-    background-color: #3b5998;
-    border-color: #41659c;
-    color: #fff !important;
-    min-height: 30px;
-    padding: 4px 10px;
-    margin-bottom: 0;
-    width: 100%;
-    display: inline-block;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border-bottom: solid 1px #C2C2C2;
-    -webkit-border-top-left-radius: 1px;
-    -moz-border-radius-topleft: 1px;
-    border-top-left-radius: 1px;
-    -webkit-border-top-right-radius: 1px;
-    -moz-border-radius-topright: 1px;
-    border-top-right-radius: 1px;
+/*page absences*/
+
+.carrer-blanc {
+    background: #ffffff;
+    width: 1347px;
+    height: 38px;
+    margin-left: 18px;
+    display: flex;
 }
 
-@media screen AND (min-width: 1200px){
-    .row .first-box {
-        width: 48.717948717948715%;
-    }}
-.body-box {
-    clear: both;
-    padding: 12px;
+.carrer-blanc:hover {
+    color: #485e8c;;
+    width: 1347px;
+    height: 38px;
+    margin-left: 18px;
+    display: flex;
+}
+
+.house {
+    margin-left: 15px;
+    margin-top: 11px;
+}
+
+.tete {
+    margin-top: 8px;
+}
+
+.barre-bleu {
+    background: #3b5998;
+    margin-left: 18px;
+    margin-top: 20px;
+    width: 1347px;
+    height: 38px;
+
 }
