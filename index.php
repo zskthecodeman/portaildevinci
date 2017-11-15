@@ -7,21 +7,6 @@
 
                     <div class="col-md-12">
 
-<<<<<<< HEAD
-                        <div class="container-fluid">
-                            <div class="logodiv">
-                                <img src="img/logo.png">
-                            </div>
-                            <h3 class="bgtitle">Tableau de bord Étudiant</h3>
-                        </div>
-=======
-                                    <div class="container-fluid">
-                                        <div class="logodiv">
-                                            <img src="img/logo.png">
-                                        </div>
-                                        <h3 class="bgtitle">Tableau de bord Étudiant</h3>
-                                    </div>
->>>>>>> bbc0d0f1d89a7118070989a36b6a00ca101302d9
 
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
@@ -37,30 +22,6 @@
                                     <a href="absence.php" class="btn btn-effect"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
                                         Mes Absences</a>
                                 </li>
-<<<<<<< HEAD
-
-                                <br>
-
-                                    <nav class="lgscreen">
-                                        <ul class="navbar-nav mr-auto align">
-                                            <li class="nav-item">
-                                                <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
-                                            </li>
-                                            <li class="nav-item align-baseline">
-                                                <a href="#" class="btn btn-effect">Mon E.D.T</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="btn btn-effect">Mes Absences</a>
-                                            </li>
-
-                                <li class="nav-item">
-                                    <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
-                                        <li class="nav-item">
-                                            <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>Mes Notes</a>
-                                        </li>
-=======
-                                </li>
->>>>>>> bbc0d0f1d89a7118070989a36b6a00ca101302d9
                                 <li class="nav-item">
                                     <a href="#" class="btn btn-effect"><i class="fa fa-list" aria-hidden="true"></i>
                                         Mes Cours</a>
