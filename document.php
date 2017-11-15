@@ -90,21 +90,16 @@ include 'template/header.php';
                                 document.getElementById("myNav").style.width = "0%";
                             }
                         </script>
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-
                     </div>
+
+
+
+
+
+
+
+
+
 
                     <div class="container-fluid" style="z-index: 100;">
                         <div class="content">
@@ -112,7 +107,7 @@ include 'template/header.php';
                             <header><h4>Fiche Étudiant : </h4></header>
 
                             <div class="body">
-                                <div class="container-fluid">
+
                                     <div class="col">
                                         <div class="first-box">
                                         <header class="headox">
@@ -162,7 +157,7 @@ include 'template/header.php';
                                         </div>
                                     </div>
                                 </div>
-                                </div>
+
                                 </div>
 
 
