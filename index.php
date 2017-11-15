@@ -19,7 +19,7 @@
                         <nav class="lgscreen">
                             <ul class="navbar-nav mr-auto align">
                                 <li class="nav-item">
-                                    <a href="#" class="btn btn-effect">Fiche Étudiant</a>
+                                    <a href="index.php" class="btn btn-effect">Fiche Étudiant</a>
                                 </li>
                                 <li class="nav-item align-baseline">
                                     <a href="#" class="btn btn-effect">Mon E.D.T</a>
