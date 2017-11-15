@@ -145,13 +145,12 @@
                                                     </ul>
 
                                                 </div>
-                                                <div class="col-md-4 contour profil"><img src="img/profil.jpg" width="100px"></div>
-                                            </div>
+                                                <div class="col-md-1 contour profil"><img src="img/profil.jpg" width="100px"></div>
+                                                </div>
+
                                         </div>
 
-                                    <div class="col-md-2 contour1" style="border: 1px solid red";>
-                                        <button class="button1 pull-right">Demande de modification</button>
-                                    </div>
+
                                     </div>
 
 
