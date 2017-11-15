@@ -3,8 +3,10 @@
 }
 
 .dropdown {
-    padding-left: 75px;
+    padding-right: 30px;
 }
+
+
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #E9EAED;
@@ -223,6 +225,22 @@ h1, h2, h3, h4, h5, h6{
 @media (min-width: 1200px){
     .row-fluid{width: 100%;}
 }
+
+.contour{
+    border:1px solid #003781;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+.black{
+    color: #000;
+}
+
+.icon{
+    
+}
 /* /Content */
 
 .nav-link , .navbar-brand{
@@ -232,6 +250,21 @@ h1, h2, h3, h4, h5, h6{
 /*page document*/
 .first-box{
     width:100%;
+<<<<<<< HEAD
+=======
+    margin-top: 0px;
+    margin-bottom: 25px;
+    background-color: #fff;
+    border-color: #003781 !important;
+    border: 15px !important;
+}
+.first-box header h4 {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 5px 0;
+    padding: 0;
+>>>>>>> origin/master
 }
 
 /*page absences*/
